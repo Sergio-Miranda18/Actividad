@@ -30,6 +30,19 @@ public class VehiculoController {
      return ResponseEntity.ok(vehiculo);
 
     }
-
+    @PutMapping("/editar/{id}")
+    public ResponseEntity<Vehiculo> actualizarVehiculo(
+            @PathVariable Long id,
+            @RequestBody Vehiculo vehiculoActualizado) {
+        Vehiculo vehiculo = vehiculoServicio.actualizarVehiculo(id, vehiculoActualizado);
+        return ResponseEntity.ok(vehiculo);
+    }
+    @PutMapping("/asignar/{vehiculoId}/conductor/{conductorId}")
+    public ResponseEntity<Vehiculo> asignarConductor(
+            @PathVariable Long vehiculoId,
+            @PathVariable Long conductorId) {
+        Vehiculo vehiculo = vehiculoServicio.asignarConductor(vehiculoId, conductorId);
+        return ResponseEntity.ok(vehiculo);
+    }
 
 }
