@@ -1,0 +1,13 @@
+C:\Users\SERGIO MIRANDA\Downloads\actividad\Actividad-main\src\main\java\com\example\Activdad\ActivdadApplication.java
+C:\Users\SERGIO MIRANDA\Downloads\actividad\Actividad-main\src\main\java\com\example\Activdad\Config\SecurityConfig.java
+C:\Users\SERGIO MIRANDA\Downloads\actividad\Actividad-main\src\main\java\com\example\Activdad\controller\ConductorController.java
+C:\Users\SERGIO MIRANDA\Downloads\actividad\Actividad-main\src\main\java\com\example\Activdad\controller\VehiculoController.java
+C:\Users\SERGIO MIRANDA\Downloads\actividad\Actividad-main\src\main\java\com\example\Activdad\domain\AsignacionDTO.java
+C:\Users\SERGIO MIRANDA\Downloads\actividad\Actividad-main\src\main\java\com\example\Activdad\domain\ConductorDTO.java
+C:\Users\SERGIO MIRANDA\Downloads\actividad\Actividad-main\src\main\java\com\example\Activdad\domain\VehiculoDTO.java
+C:\Users\SERGIO MIRANDA\Downloads\actividad\Actividad-main\src\main\java\com\example\Activdad\Persistence\entity\Conductor.java
+C:\Users\SERGIO MIRANDA\Downloads\actividad\Actividad-main\src\main\java\com\example\Activdad\Persistence\entity\Vehiculo.java
+C:\Users\SERGIO MIRANDA\Downloads\actividad\Actividad-main\src\main\java\com\example\Activdad\Persistence\Repository\ConductorRepository.java
+C:\Users\SERGIO MIRANDA\Downloads\actividad\Actividad-main\src\main\java\com\example\Activdad\Persistence\Repository\VehiculoRepository.java
+C:\Users\SERGIO MIRANDA\Downloads\actividad\Actividad-main\src\main\java\com\example\Activdad\Services\ConductorService.java
+C:\Users\SERGIO MIRANDA\Downloads\actividad\Actividad-main\src\main\java\com\example\Activdad\Services\VehiculoService.java
